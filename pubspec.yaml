@@ -41,7 +41,7 @@ dependencies:
   fluttertoast: ^8.0.9
   flutter_barcode_scanner: ^2.0.0
   getwidget: ^3.0.1
-  barcode_validator: ^0.0.2
+  # barcode_validator: ^0.0.2
 
 dev_dependencies:
   flutter_test:

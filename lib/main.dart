@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:vanapp/views/home_screen.dart';
 import 'package:vanapp/views/view_scanned_product_screen.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const ViewScannedProductScreen(),
+      home: const HomeScreen(),
     );
   }
 }
